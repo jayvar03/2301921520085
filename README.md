@@ -46,14 +46,13 @@ Campus-Evaluation-FS/
 ├── PriorityInbox.js
 ├── notification-system-design.md
 ├── images/
-│   ├── code1.png
-│   ├── code2.png
 │   ├── output-1.png
-│   ├── output-2.png
+│   ├── output-2.png 
 │   └── postman.png
 │
 ├── README.md
-└── LICENSE
+└── LICENSE   
+
 ```
 
 ---
@@ -99,28 +98,12 @@ Campus-Evaluation-FS/
 
 ---
 
-## 4️⃣ Logging Middleware Implementation
-
-<p align="center">
-<img src="./images/code1.png" width="900">
-</p>
-
----
-
-## 5️⃣ Priority Inbox Implementation
-
-<p align="center">
-<img src="./images/code2.png" width="900">
-</p>
-
----
-
 # ▶️ Running the Project
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/IshankAggarwal09/2301921520084.git
+git clone https://github.com/jayvar03/2301921520085.git
 ```
 
 ### Navigate to Frontend
